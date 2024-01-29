@@ -1,3 +1,4 @@
 1. Install django : pip install django
 2. Create the project : django-admin startproject  project_name
 3. run the project : python manage.py runserver
+4. Create blog : python manage.py startapp blog
